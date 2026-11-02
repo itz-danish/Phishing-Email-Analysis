@@ -1,0 +1,8 @@
+incident_id,ioc_type,ioc,confidence,source
+INC-001,email,87357344@mymts.net,Medium,Email Header
+INC-001,domain,mymts.net,Medium,Email Header
+INC-001,ip,181.214.107.116,Medium,Received Header
+INC-001,ip,140.238.151.68,Medium,Received Header
+INC-001,domain,ninafernandes.com.br,High,HTML Link
+INC-001,url,https://www.ninafernandes.com.br/istretto.html,High,HTML Link
+INC-001,domain,mr.postman.storyworth.com,Low,HTML Links
