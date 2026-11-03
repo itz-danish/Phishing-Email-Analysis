@@ -6,3 +6,7 @@ INC-001,ip,140.238.151.68,Medium,Received Header
 INC-001,domain,ninafernandes.com.br,High,HTML Link
 INC-001,url,https://www.ninafernandes.com.br/istretto.html,High,HTML Link
 INC-001,domain,mr.postman.storyworth.com,Low,HTML Links
+INC-002,email,noreply@dfsgdfs-398b5.firebaseapp.com,Medium,Email Header
+INC-002,domain,dfsgdfs-398b5.firebaseapp.com,Medium,Email Header
+INC-002,ip,209.85.167.200,Low,X-Sender-IP Header (sending infrastructure; not confirmed attacker IP)
+INC-002,domain,u20993664.ct.sendgrid.net,Low,HTML CTA tracking URL (final redirect unverified; third-party tracking host)
